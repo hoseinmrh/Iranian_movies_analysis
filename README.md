@@ -5,7 +5,6 @@
 
 
 ## Requirements
-To run the x86 assembler, you need to have the following installed on your system:
 * Python (version 3.0 or higher)
 * Jupyter Notebook
 * Git command line tool (or Git GUI client) to clone the repository.
